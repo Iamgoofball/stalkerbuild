@@ -389,7 +389,7 @@
 	for(var/a in base)
 		if(a in (letters|numerals))
 			out += a
-	return list2text(out)
+	return jointext(out,"")
 
 /obj/item/toy/crayon/Topic(href, href_list, hsrc)
 	var/temp = "a"
@@ -422,7 +422,7 @@
 	if(istype(target, /obj/effect/decal/cleanable))
 		target = target.loc
 	if(is_type_in_list(target,validSurfaces))
-		
+
 		var/temp = "rune"
 		if(letters.Find(drawtype))
 			temp = "letter"

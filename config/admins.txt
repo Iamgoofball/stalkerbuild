@@ -10,6 +10,7 @@
 robbastard = Host
 qwertyo55 = Host
 bishehlop = Host
-narciss_f = Host
+narciss_f = Host 
+solareclipse84 = Host
 kreeperhlc = Host
 vallat = Host

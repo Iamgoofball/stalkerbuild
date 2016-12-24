@@ -1,21 +1,3 @@
-/proc/splittext(txt, splitter)
-	var/text = txt
-	var/list/result = list()
-	var/found = findtext(text, splitter)
-	while(found)
-		result.Add(copytext(text, 1, found))
-		if(lentext(text) > found)
-			found = findtext(text, splitter)
-			if(found)
-				text = copytext(text, found + 1, lentext(text) + 1)
-				result.Add(copytext(text, 1, 0))
-				return result
-			else
-				result.Add(copytext(text, found + 1, lentext(text) + 1))
-		else
-			break
-	return result
-
 
 
 

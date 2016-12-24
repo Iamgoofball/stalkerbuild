@@ -524,7 +524,7 @@
 				suffix = copytext(cword,length(cword)-1,length(cword)  )
 			if(length(cword))
 				rearranged += cword
-		message = "[prefix][uppertext(list2text(rearranged," "))]!!"
+		message = "[prefix][uppertext(jointext(rearranged," "))]!!"
 	return message
 
 /datum/mutation/human/swedish

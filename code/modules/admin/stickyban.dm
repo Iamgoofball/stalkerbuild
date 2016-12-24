@@ -186,13 +186,13 @@
 		return null
 	. = ban.Copy()
 	if (.["keys"])
-		.["keys"] = list2text(.["keys"], ",")
+		.["keys"] = jointext(.["keys"], ",")
 	if (.["type"])
-		.["type"] = list2text(.["type"], ",")
+		.["type"] = jointext(.["type"], ",")
 	if (.["IP"])
-		.["IP"] = list2text(.["IP"], ",")
+		.["IP"] = jointext(.["IP"], ",")
 	if (.["computer_id"])
-		.["computer_id"] = list2text(.["computer_id"], ",")
+		.["computer_id"] = jointext(.["computer_id"], ",")
 	. = list2params(.)
 
 

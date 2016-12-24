@@ -429,7 +429,7 @@ datum/species/human/spec_death(gibbed, mob/living/carbon/human/H)
 		if(prob(20) && message_list.len > 3)
 			message_list.Insert(insertpos, "[pick("BRAINS", "Brains", "Braaaiinnnsss", "BRAAAIIINNSSS")]...")
 
-	return list2text(message_list, " ")
+	return jointext(message_list, " ")
 
 /datum/species/cosmetic_zombie
 	name = "Human"

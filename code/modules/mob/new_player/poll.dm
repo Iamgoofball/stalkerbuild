@@ -404,10 +404,10 @@
 			adminrank = usr.client.holder.rank
 
 
-		replytext = replacetext(replytext, "%BR%", "")
-		replytext = replacetext(replytext, "\n", "%BR%")
+		replytext = replace_text(replytext, "%BR%", "")
+		replytext = replace_text(replytext, "\n", "%BR%")
 		var/text_pass = reject_bad_text(replytext,8000)
-		replytext = replacetext(replytext, "%BR%", "<BR>")
+		replytext = replace_text(replytext, "%BR%", "<BR>")
 
 		if(!text_pass)
 			usr << "The text you entered was blank, contained illegal characters or was too long. Please correct the text and submit again."

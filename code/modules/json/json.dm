@@ -7,12 +7,12 @@
 
 // ************************************ WRITER ************************************
 /datum/jsonHelper/proc/stringify(value)
-	return list2text(WriteValue(list(), value))
+	return jointext(WriteValue(list(), value),"")
 
 /datum/jsonHelper/proc/WriteValue(list/json, value)
 	. = json
 	if(isnum(value))
-		json += value // Consider num2text(value, 20) for maximum accuracy.
+		json += value //Consider num2text(value, 20) for maximum accuracy.
 	else if(isnull(value))
 		json += "null"
 	else if(istext(value))
@@ -171,7 +171,7 @@
 	while(readPos <= jsonLen)
 		if(curChar == "\"")
 			AdvanceWS
-			return list2text(chars)
+			return jointext(chars,"")
 		else if(curChar == "\\")
 			Advance
 			switch(curChar)

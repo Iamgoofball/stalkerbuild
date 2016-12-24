@@ -173,40 +173,40 @@
 		return
 
 	t = copytext(sanitize_russian(t, 1),1,MAX_MESSAGE_LEN)
-	t = dd_replaceText(t, "\[center\]", "<center>")
-	t = dd_replaceText(t, "\[/center\]", "</center>")
-	t = dd_replaceText(t, "\[br\]", "<BR>")
-	t = dd_replaceText(t, "\[b\]", "<B>")
-	t = dd_replaceText(t, "\[/b\]", "</B>")
-	t = dd_replaceText(t, "\[i\]", "<I>")
-	t = dd_replaceText(t, "\[/i\]", "</I>")
-	t = dd_replaceText(t, "\[u\]", "<U>")
-	t = dd_replaceText(t, "\[/u\]", "</U>")
-	t = dd_replaceText(t, "\[large\]", "<font size=\"4\">")
-	t = dd_replaceText(t, "\[/large\]", "</font>")
-	t = dd_replaceText(t, "\[sign\]", "<font face=\"[SIGNFONT]\"><i>[user.real_name]</i></font>")
+	t = dd_replace_text(t, "\[center\]", "<center>")
+	t = dd_replace_text(t, "\[/center\]", "</center>")
+	t = dd_replace_text(t, "\[br\]", "<BR>")
+	t = dd_replace_text(t, "\[b\]", "<B>")
+	t = dd_replace_text(t, "\[/b\]", "</B>")
+	t = dd_replace_text(t, "\[i\]", "<I>")
+	t = dd_replace_text(t, "\[/i\]", "</I>")
+	t = dd_replace_text(t, "\[u\]", "<U>")
+	t = dd_replace_text(t, "\[/u\]", "</U>")
+	t = dd_replace_text(t, "\[large\]", "<font size=\"4\">")
+	t = dd_replace_text(t, "\[/large\]", "</font>")
+	t = dd_replace_text(t, "\[sign\]", "<font face=\"[SIGNFONT]\"><i>[user.real_name]</i></font>")
 
 	if(!iscrayon)
-		t = dd_replaceText(t, "\[*\]", "<li>")
-		t = dd_replaceText(t, "\[hr\]", "<HR>")
-		t = dd_replaceText(t, "\[small\]", "<font size = \"1\">")
-		t = dd_replaceText(t, "\[/small\]", "</font>")
-		t = dd_replaceText(t, "\[list\]", "<ul>")
-		t = dd_replaceText(t, "\[/list\]", "</ul>")
+		t = dd_replace_text(t, "\[*\]", "<li>")
+		t = dd_replace_text(t, "\[hr\]", "<HR>")
+		t = dd_replace_text(t, "\[small\]", "<font size = \"1\">")
+		t = dd_replace_text(t, "\[/small\]", "</font>")
+		t = dd_replace_text(t, "\[list\]", "<ul>")
+		t = dd_replace_text(t, "\[/list\]", "</ul>")
 
 		t = "<font face=\"[PEN_FONT]\" color=[P.colour]>[t]</font>"
 	else // If it is a crayon, and he still tries to use these, make them empty!
 		var/obj/item/toy/crayon/C = P
-		t = dd_replaceText(t, "\[*\]", "")
-		t = dd_replaceText(t, "\[hr\]", "")
-		t = dd_replaceText(t, "\[small\]", "")
-		t = dd_replaceText(t, "\[/small\]", "")
-		t = dd_replaceText(t, "\[list\]", "")
-		t = dd_replaceText(t, "\[/list\]", "")
+		t = dd_replace_text(t, "\[*\]", "")
+		t = dd_replace_text(t, "\[hr\]", "")
+		t = dd_replace_text(t, "\[small\]", "")
+		t = dd_replace_text(t, "\[/small\]", "")
+		t = dd_replace_text(t, "\[list\]", "")
+		t = dd_replace_text(t, "\[/list\]", "")
 
 		t = "<font face=\"[CRAYON_FONT]\" color=[C.paint_color]><b>[t]</b></font>"
 
-//	t = dd_replaceText(t, "#", "") // Junk converted to nothing!
+//	t = dd_replace_text(t, "#", "") // Junk converted to nothing!
 	return t
 
 

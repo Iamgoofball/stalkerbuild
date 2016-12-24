@@ -215,10 +215,10 @@ proc/russian_text2html(msg)
 // See bygex.dm
 #ifndef USE_BYGEX
 /proc/replace_text(text, find, replacement)
-	return list2text(text2list(text, find), replacement)
+	return jointext(text2list(text, find), replacement)
 
 /proc/replace_text_Ex(text, find, replacement)
-	return list2text(text2listEx(text, find), replacement)
+	return jointext(text2listEx(text, find), replacement)
 #endif
 
 //Adds 'u' number of zeros ahead of the text 't'

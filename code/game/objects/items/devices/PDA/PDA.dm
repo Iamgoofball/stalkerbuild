@@ -998,10 +998,10 @@ var/global/list/obj/item/device/pda/PDAs = list()
 			user << "<span class='warning'>Unable to scan! Paper is blank.</span>"
 			return
 		notehtml = A:info
-		note = replacetext(notehtml, "<BR>", "\[br\]")
-		note = replacetext(note, "<li>", "\[*\]")
-		note = replacetext(note, "<ul>", "\[list\]")
-		note = replacetext(note, "</ul>", "\[/list\]")
+		note = replace_text(notehtml, "<BR>", "\[br\]")
+		note = replace_text(note, "<li>", "\[*\]")
+		note = replace_text(note, "<ul>", "\[list\]")
+		note = replace_text(note, "</ul>", "\[/list\]")
 		note = html_encode(note)
 		notescanned = 1
 		user << "<span class='notice'>Paper scanned. Saved to PDA's notekeeper.</span>" //concept of scanning paper copyright brainoblivion 2009

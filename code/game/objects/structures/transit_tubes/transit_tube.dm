@@ -262,18 +262,18 @@ obj/structure/transit_tube/ex_act(severity, target)
 	if(text in direction_table)
 		return direction_table[text]
 
-	var/list/split_text = text2list(text, "-")
+	var/list/splittext = text2list(text, "-")
 
 	// If the first token is D, the icon_state represents
 	//  a purely decorative tube, and doesn't actually
 	//  connect to anything.
-	if(split_text[1] == "D")
+	if(splittext[1] == "D")
 		direction_table[text] = list()
 		return null
 
 	var/list/directions = list()
 
-	for(var/text_part in split_text)
+	for(var/text_part in splittext)
 		var/direction = text2dir_extended(text_part)
 
 		if(direction > 0)

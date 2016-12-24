@@ -22,7 +22,7 @@
 					if(findtext(temp_message[H], "*") || findtext(temp_message[H], ";") || findtext(temp_message[H], ":")) continue
 					temp_message[H] = "HONK"
 					pick_list -= H //Make sure that you dont HONK the same word twice
-				message = list2text(temp_message, " ")
+				message = jointext(temp_message, " ")
 	message = ..(message)
 	message = dna.mutations_say_mods(message)
 	return message
@@ -104,7 +104,7 @@
 			var/temp = winget(client, "input", "text")
 			if(findtextEx(temp, "Say \"", 1, 7) && length(temp) > 5)	//"case sensitive means
 
-				temp = replacetext(temp, ";", "")	//general radio
+				temp = replace_text(temp, ";", "")	//general radio
 
 				if(findtext(trim_left(temp), ":", 6, 7))	//dept radio
 					temp = copytext(trim_left(temp), 8)
