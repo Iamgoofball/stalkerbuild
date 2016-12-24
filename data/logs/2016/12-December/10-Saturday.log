@@ -1,0 +1,344 @@
+
+
+Starting up. 06:04.04
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[06:04:05]ADMIN: Loading appearance_rank
+[06:04:05]ADMIN: appearance_keylist was empty
+[06:04:05]ADMIN: Loading Banlist
+[06:04:05]ACCESS: Login: Guest-2745743991/(Guest-2745743991) from localhost-2745743991 || BYOND v509
+[06:04:24]ACCESS: Logout: Guest-2745743991[DC]/(Guest-2745743991)
+
+
+Starting up. 06:04.49
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[06:04:50]ADMIN: Loading appearance_rank
+[06:04:50]ADMIN: appearance_keylist was empty
+[06:04:50]ADMIN: Loading Banlist
+[06:04:50]ACCESS: Login: Qwertyo55/(Qwertyo55) from localhost-2745743991 || BYOND v509
+[06:05:14]ADMIN: Qwertyo55 has started the game.
+[06:05:20]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[06:05:20]ACCESS: Logout: *no key*/(Qwertyo55)
+[06:05:20]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:05:33]ACCESS: Logout: Qwertyo55[DC]/(Bryant Cypret)
+
+
+Starting up. 06:06.28
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[06:06:29]ADMIN: Loading appearance_rank
+[06:06:29]ADMIN: appearance_keylist was empty
+[06:06:29]ADMIN: Loading Banlist
+[06:06:29]ACCESS: Login: Qwertyo55/(Qwertyo55) from localhost-2745743991 || BYOND v509
+[06:06:56]ADMIN: Qwertyo55 has started the game.
+[06:07:07]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[06:07:07]ACCESS: Logout: *no key*/(Qwertyo55)
+[06:07:07]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:07:28]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/bolt
+[06:07:29]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/manybolts
+[06:08:09]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/lighter
+[06:15:05]ADMIN: Qwertyo55/(Bryant Cypret) admin ghosted
+[06:15:05]ACCESS: Logout: *no key*/(Bryant Cypret)
+[06:15:05]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:15:12]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[06:15:12]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[06:15:14]ADMIN: Qwertyo55/(Bryant Cypret) teleported @Qwertyo55[DC]/(Bryant Cypret)
+[06:15:16]ACCESS: Logout: *no key*/(Bryant Cypret)
+[06:15:16]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:15:27]ADMIN: Qwertyo55/(Bryant Cypret) admin ghosted
+[06:15:27]ACCESS: Logout: *no key*/(Bryant Cypret)
+[06:15:27]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:15:52]ACCESS: Logout: *no key*/(Bryant Cypret)
+[06:15:52]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:15:56]ADMIN: Qwertyo55/(Bryant Cypret) admin ghosted
+[06:15:56]ACCESS: Logout: *no key*/(Bryant Cypret)
+[06:15:56]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:16:15]ACCESS: Logout: Qwertyo55[DC]/(Bryant Cypret)
+
+
+Starting up. 06:30.04
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[06:30:05]ADMIN: Loading appearance_rank
+[06:30:05]ADMIN: appearance_keylist was empty
+[06:30:05]ADMIN: Loading Banlist
+[06:30:05]ACCESS: Login: Qwertyo55/(Qwertyo55) from localhost-2745743991 || BYOND v509
+[06:30:21]ADMIN: Qwertyo55 has started the game.
+[06:30:39]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[06:30:39]ACCESS: Logout: *no key*/(Qwertyo55)
+[06:30:39]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:30:52]ADMIN: Qwertyo55/(Bryant Cypret) changed the equipment of Qwertyo55/(Bryant Cypret) to Special Ops Officer.
+[06:30:59]ADMIN: Qwertyo55/(Bryant Cypret) jumped to 2,1,1 in Strange Location
+[06:31:01]ADMIN: Qwertyo55/(Bryant Cypret) jumped to 2,2,1 in Strange Location
+[06:31:16]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/manybolts
+[06:33:13]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/electro
+[06:33:15]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/electro
+[06:33:15]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/electro
+[06:33:18]ADMIN: Qwertyo55/(Bryant Cypret) deleted the anomaly at (13,3,1)
+[06:33:21]ADMIN: Qwertyo55/(Bryant Cypret) deleted the anomaly at (13,3,1)
+[06:33:33]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/tramplin
+[06:33:36]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:33:39]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:33:41]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:33:43]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:33:45]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:33:46]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:33:49]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:33:51]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/holodec
+[06:35:39]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/storage/fancy/cigarettes/dromedaryco
+[06:37:15]ADMIN: Qwertyo55/(Bryant Cypret) created a /mob/living/carbon/human
+[06:37:23]ADMIN: Qwertyo55/(Bryant Cypret) admin ghosted
+[06:37:23]ACCESS: Logout: *no key*/(Bryant Cypret)
+[06:37:23]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:37:28]ADMIN: Qwertyo55/(Bryant Cypret) stuffed qwertyo55 into Amya Dugmore.
+[06:37:28]ACCESS: Logout: *no key*/(Bryant Cypret)
+[06:37:28]ACCESS: Login: qwertyo55/(Amya Dugmore) from localhost-2745743991 || BYOND v509
+[06:37:39]ADMIN: qwertyo55/(Amya Dugmore) admin ghosted
+[06:37:39]ACCESS: Logout: *no key*/(Amya Dugmore)
+[06:37:39]ACCESS: Login: qwertyo55/(Amya Dugmore) from localhost-2745743991 || BYOND v509
+[06:37:52]ADMIN: qwertyo55/(Amya Dugmore) stuffed qwertyo55 into Bryant Cypret.
+[06:37:52]ACCESS: Logout: *no key*/(Amya Dugmore)
+[06:37:52]ACCESS: Login: qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[06:41:13]ACCESS: Logout: qwertyo55[DC]/(Bryant Cypret)
+
+
+Starting up. 16:20.30
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[16:20:31]ADMIN: Loading appearance_rank
+[16:20:31]ADMIN: appearance_keylist was empty
+[16:20:31]ADMIN: Loading Banlist
+[16:20:32]ACCESS: Login: Qwertyo55/(Qwertyo55) from localhost-2745743991 || BYOND v509
+[16:20:49]ADMIN: Qwertyo55 has started the game.
+[16:20:53]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[16:20:53]ACCESS: Logout: *no key*/(Qwertyo55)
+[16:20:53]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[16:21:33]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[16:21:34]ADMIN: Qwertyo55/(Bryant Cypret) healed / Revived Qwertyo55/(Bryant Cypret)
+[16:27:13]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/bolt
+[16:27:20]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/manybolts
+[16:30:55]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/electro
+[16:30:56]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/anomaly/electro
+[16:31:02]ADMIN: Qwertyo55/(Bryant Cypret) jumped to 35,48,1 in Outdoor
+[16:31:04]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[16:31:05]ADMIN: Qwertyo55/(Bryant Cypret) healed / Revived Qwertyo55/(Bryant Cypret)
+[16:31:11]ADMIN: Qwertyo55/(Bryant Cypret) has toggled Qwertyo55/(Bryant Cypret)'s nodamage to On
+[16:31:21]ADMIN: Qwertyo55/(Bryant Cypret) created a /mob/living/simple_animal/hostile/mutant/dog
+[16:31:24]ADMIN: Qwertyo55/(Bryant Cypret) jumped to 41,48,1 in Outdoor
+[16:34:48]ADMIN: Qwertyo55/(Bryant Cypret) created a /mob/living/carbon/human
+[16:35:00]EMOTE: Gunner Gregory/ : <B>Gunner Gregory</B> seizes up and falls limp, his eyes dead and lifeless...
+[16:35:41]ACCESS: Logout: *no key*/(Bryant Cypret)
+[16:35:41]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[16:36:03]ADMIN: Qwertyo55/(Bryant Cypret) jumped to Qwertyo55/(Bryant Cypret)
+[16:36:05]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[16:36:09]ADMIN: Qwertyo55/(Bryant Cypret) has used rudimentary transformation on Qwertyo55/(Bryant Cypret). Transforming to human; deletemob=1
+[16:36:09]ACCESS: Logout: *no key*/(Bryant Cypret)
+[16:36:09]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[16:36:11]ADMIN: Qwertyo55/(Bryant Cypret) stuffed qwertyo55 into Bryant Cypret.
+[16:36:12]ACCESS: Logout: *no key*/(Bryant Cypret)
+[16:36:12]ACCESS: Login: qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[16:42:55]ADMIN: qwertyo55/(Bryant Cypret) created a /mob/living/carbon/alien/humanoid/royal
+[16:43:02]ADMIN: qwertyo55/(Bryant Cypret) created a /mob/living/carbon/alien/larva
+[16:47:50]ADMIN: qwertyo55/(Bryant Cypret) has toggled qwertyo55/(Bryant Cypret)'s nodamage to On
+[16:48:10]ADMIN: qwertyo55/(Bryant Cypret) jumped to 33,19,1 in Outdoor
+[16:54:22]ADMIN: Qwertyo55/(Bryant Cypret) modified snork's healable to 0
+[16:54:34]ADMIN: Qwertyo55/(Bryant Cypret) modified snork's health to 5
+[16:56:23]ADMIN: qwertyo55/(Bryant Cypret) jumped to 41,17,1 in Outdoor
+[16:56:24]ADMIN: qwertyo55/(Bryant Cypret) jumped to 41,24,1 in Outdoor
+[16:56:29]ADMIN: qwertyo55/(Bryant Cypret) jumped to 41,31,1 in Outdoor
+[16:56:31]ADMIN: qwertyo55/(Bryant Cypret) jumped to 41,38,1 in Outdoor
+[16:56:32]ADMIN: qwertyo55/(Bryant Cypret) jumped to 41,45,1 in Outdoor
+[16:56:34]ADMIN: qwertyo55/(Bryant Cypret) jumped to 34,48,1 in Outdoor
+[16:56:36]ADMIN: qwertyo55/(Bryant Cypret) jumped to 27,48,1 in Outdoor
+[16:56:39]ADMIN: qwertyo55/(Bryant Cypret) jumped to 21,48,1 in Outdoor
+[16:58:26]EMOTE: Gabriel Trovato/ : <B>Gabriel Trovato</B> seizes up and falls limp, his eyes dead and lifeless...
+[16:58:42]EMOTE: Abel Caldwell/ : <B>Abel Caldwell</B> seizes up and falls limp, his eyes dead and lifeless...
+[16:58:46]SAY: Bryant Cypret/qwertyo55 : œ≈–≈«¿–ﬂ∆¿ﬁ—‹!!!
+[16:58:50]EMOTE: Alexandria Holdeman/ : <B>Alexandria Holdeman</B> seizes up and falls limp, her eyes dead and lifeless...
+[16:58:59]EMOTE: Pauleen Ironmonger/ : <B>Pauleen Ironmonger</B> seizes up and falls limp, her eyes dead and lifeless...
+[16:59:03]EMOTE: Alice Powell/ : <B>Alice Powell</B> seizes up and falls limp, her eyes dead and lifeless...
+[16:59:28]EMOTE: Francis Parker/ : <B>Francis Parker</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:03:37]EMOTE: Timothy Dean/ : <B>Timothy Dean</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:13:25]ACCESS: Logout: qwertyo55[DC]/(Bryant Cypret)
+
+
+Starting up. 17:25.40
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode abduction (abduction) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown game mode probability configuration definition: malfunction.
+Unknown continuous configuration definition: malfunction.
+Unknown midround antagonist configuration definition: malfunction.
+Saved mode is 'extended'
+[17:25:41]ADMIN: Loading appearance_rank
+[17:25:41]ADMIN: appearance_keylist was empty
+[17:25:41]ADMIN: Loading Banlist
+[17:25:41]ACCESS: Login: Qwertyo55/(Qwertyo55) from localhost-2745743991 || BYOND v509
+[17:26:06]ADMIN: Qwertyo55 has started the game.
+[17:26:11]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[17:26:11]ACCESS: Logout: *no key*/(Qwertyo55)
+[17:26:11]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[17:26:22]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/manybolts
+[17:26:24]ADMIN: Qwertyo55/(Bryant Cypret) created a /obj/item/weapon/bolt
+[17:26:36]EMOTE: Bryant Cypret/Qwertyo55 : <B>Bryant Cypret</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:27:00]ACCESS: Logout: *no key*/(Bryant Cypret)
+[17:27:00]ACCESS: Login: Qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[17:27:04]ADMIN: Qwertyo55/(Bryant Cypret) stuffed qwertyo55 into Bryant Cypret.
+[17:27:04]ACCESS: Logout: *no key*/(Bryant Cypret)
+[17:27:04]ACCESS: Login: qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[17:27:06]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[17:27:08]ADMIN: qwertyo55/(Bryant Cypret) healed / Revived qwertyo55/(Bryant Cypret)
+[17:28:23]ADMIN: qwertyo55/(Bryant Cypret) created a /obj/anomaly/electro
+[17:28:26]ADMIN: qwertyo55/(Bryant Cypret) created a /obj/anomaly/tramplin
+[17:29:33]ADMIN: qwertyo55/(Bryant Cypret) has toggled qwertyo55/(Bryant Cypret)'s nodamage to On
+[17:29:39]ADMIN: qwertyo55/(Bryant Cypret) created a /mob/living/carbon/human
+[17:29:52]EMOTE: Priscilla Muller/ : <B>Priscilla Muller</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:31:57]ACCESS: Logout: *no key*/(Bryant Cypret)
+[17:31:57]ACCESS: Login: qwertyo55/(Bryant Cypret) from localhost-2745743991 || BYOND v509
+[17:34:30]ADMIN: qwertyo55/(Bryant Cypret) stuffed qwertyo55 into flesh.
+[17:34:30]ACCESS: Logout: *no key*/(Bryant Cypret)
+[17:34:30]ACCESS: Login: qwertyo55/(flesh) from localhost-2745743991 || BYOND v509
+[17:34:44]ACCESS: Logout: *no key*/(flesh)
+[17:34:44]ACCESS: Login: qwertyo55/(flesh) from localhost-2745743991 || BYOND v509
+[17:34:50]ADMIN: qwertyo55/(flesh) teleported *no key*/(flesh)
+[17:34:52]ADMIN: qwertyo55/(flesh) teleported *no key*/(flesh)
+[17:35:22]ACCESS: Logout: qwertyo55[DC]/(flesh)
