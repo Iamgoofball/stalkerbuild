@@ -48,10 +48,10 @@
 	regex_replaceall(str, exp, fmt)
 		return call(LIBREGEX_LIBRARY, "regex_replaceall")(str, exp, fmt)
 
-	replacetextEx(str, exp, fmt)
+	replace_text_Ex(str, exp, fmt)
 		return call(LIBREGEX_LIBRARY, "regEx_replaceallliteral")(str, exp, fmt)
 
-	replacetext(str, exp, fmt)
+	replace_text(str, exp, fmt)
 		return call(LIBREGEX_LIBRARY, "regex_replaceallliteral")(str, exp, fmt)
 
 	regEx_replace(str, exp, fmt)

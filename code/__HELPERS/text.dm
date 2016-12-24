@@ -59,10 +59,10 @@
 	return msg
 
 proc/russian_html2text(msg)
-	return replacetext(msg, "&#1103;", "&#255;")
+	return replace_text(msg, "&#1103;", "&#255;")
 
 proc/russian_text2html(msg)
-	return replacetext(msg, "&#255;", "&#1103;")
+	return replace_text(msg, "&#255;", "&#1103;")
 
 
 //Runs byond's sanitization proc along-side sanitize_simple
@@ -214,10 +214,10 @@ proc/russian_text2html(msg)
  */
 // See bygex.dm
 #ifndef USE_BYGEX
-/proc/replacetext(text, find, replacement)
+/proc/replace_text(text, find, replacement)
 	return list2text(text2list(text, find), replacement)
 
-/proc/replacetextEx(text, find, replacement)
+/proc/replace_text_Ex(text, find, replacement)
 	return list2text(text2listEx(text, find), replacement)
 #endif
 
@@ -417,28 +417,28 @@ var/list/binary = list("0","1")
 	if(length(t) < 1)		//No input means nothing needs to be parsed
 		return
 
-	t = replacetext(t, "\[center\]", "<center>")
-	t = replacetext(t, "\[/center\]", "</center>")
-	t = replacetext(t, "\[br\]", "<BR>")
-	t = replacetext(t, "\[b\]", "<B>")
-	t = replacetext(t, "\[/b\]", "</B>")
-	t = replacetext(t, "\[i\]", "<I>")
-	t = replacetext(t, "\[/i\]", "</I>")
-	t = replacetext(t, "\[u\]", "<U>")
-	t = replacetext(t, "\[/u\]", "</U>")
-	t = replacetext(t, "\[large\]", "<font size=\"4\">")
-	t = replacetext(t, "\[/large\]", "</font>")
+	t = replace_text(t, "\[center\]", "<center>")
+	t = replace_text(t, "\[/center\]", "</center>")
+	t = replace_text(t, "\[br\]", "<BR>")
+	t = replace_text(t, "\[b\]", "<B>")
+	t = replace_text(t, "\[/b\]", "</B>")
+	t = replace_text(t, "\[i\]", "<I>")
+	t = replace_text(t, "\[/i\]", "</I>")
+	t = replace_text(t, "\[u\]", "<U>")
+	t = replace_text(t, "\[/u\]", "</U>")
+	t = replace_text(t, "\[large\]", "<font size=\"4\">")
+	t = replace_text(t, "\[/large\]", "</font>")
 	if(user)
-		t = replacetext(t, "\[sign\]", "<font face=\"[signfont]\"><i>[user.real_name]</i></font>")
+		t = replace_text(t, "\[sign\]", "<font face=\"[signfont]\"><i>[user.real_name]</i></font>")
 	else
-		t = replacetext(t, "\[sign\]", "")
+		t = replace_text(t, "\[sign\]", "")
 
-	t = replacetext(t, "\[*\]", "<li>")
-	t = replacetext(t, "\[hr\]", "<HR>")
-	t = replacetext(t, "\[small\]", "<font size = \"1\">")
-	t = replacetext(t, "\[/small\]", "</font>")
-	t = replacetext(t, "\[list\]", "<ul>")
-	t = replacetext(t, "\[/list\]", "</ul>")
+	t = replace_text(t, "\[*\]", "<li>")
+	t = replace_text(t, "\[hr\]", "<HR>")
+	t = replace_text(t, "\[small\]", "<font size = \"1\">")
+	t = replace_text(t, "\[/small\]", "</font>")
+	t = replace_text(t, "\[list\]", "<ul>")
+	t = replace_text(t, "\[/list\]", "</ul>")
 	return t
 
 /proc/rhtml_encode(var/msg, var/html = 0)
@@ -492,7 +492,7 @@ var/list/binary = list("0","1")
 		else if (a == 184)
 			t += ascii2text(168)
 		else t += ascii2text(a)
-	t = replacetext(t,"&#255;","&#255;")
+	t = replace_text(t,"&#255;","&#255;")
 	return t
 
 

@@ -960,7 +960,7 @@ var/list/WALLITEMS_INVERSE = list(
 	return 0
 
 /proc/format_text(text)
-	return replacetext(replacetext(text,"\proper ",""),"\improper ","")
+	return replace_text(replace_text(text,"\proper ",""),"\improper ","")
 
 /obj/proc/atmosanalyzer_scan(datum/gas_mixture/air_contents, mob/user, obj/target = src)
 	var/obj/icon = target
